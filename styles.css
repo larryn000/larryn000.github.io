@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+
+ /* Navigation Bar */
+
 nav {
     height: 100px;
     width: 100%;
@@ -10,6 +17,7 @@ nav {
     display: flex;
 }
 
-* {
-    font-family: 'Lato', sans-serif;
+.nav__link--list {
+    display: flex;
 }
+
