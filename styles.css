@@ -21,3 +21,15 @@ nav {
     display: flex;
 }
 
+.nav__link--anchor {
+    margin: 0 12px;
+    color: #242424;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.nav__link--anchor-primary {
+    background-color: darkgreen;
+    padding: 8px 20px;
+}
+
