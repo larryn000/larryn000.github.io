@@ -17,9 +17,12 @@ nav {
     display: flex;
 }
 
+ul {
+    list-style-type: none;
+}
+
 .nav__link--list {
     display: flex;
-    list-style-type: none;
 }
 
 .nav__link--anchor {
