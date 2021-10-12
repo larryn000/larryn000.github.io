@@ -39,6 +39,17 @@ ul {
 /* Hero Landing */
 
 .hero {
+    position: relative;
+    width: 60vw;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: green;
+}
+
+.hero__text {
+    font-weight: 700;
+    margin-bottom: 0;
 }
 
