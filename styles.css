@@ -8,7 +8,7 @@
  /* Navigation Bar */
 
 nav {
-    height: 100px;
+    height: 40px;
     width: 100%;
     justify-content: space-between;
     align-items: center;
@@ -22,7 +22,7 @@ ul {
 }
 
 .personal__logo {
-    font-size: 700;
+    font-weight: 700;
 }
 
 .nav__link--list {
